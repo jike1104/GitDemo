@@ -17,6 +17,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"firstBranch");
+    NSLog(@"firstBranch--secondCommit");
+
     self.view.backgroundColor = [UIColor greenColor];
     
     // Do any additional setup after loading the view.
