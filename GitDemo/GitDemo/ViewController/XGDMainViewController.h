@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  XGDMainViewController.h
 //  GitDemo
 //
 //  Created by 谢果冻 on 2018/8/5.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface XGDMainViewController : UIViewController
 
 @end
-
