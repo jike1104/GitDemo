@@ -19,6 +19,7 @@
     NSLog(@"firstBranch");
     NSLog(@"firstBranch--secondCommit");
     NSLog(@"firstBranch--thirdCommit");
+    NSLog(@"firstBranch--forthCommit");
 
     self.view.backgroundColor = [UIColor greenColor];
     
