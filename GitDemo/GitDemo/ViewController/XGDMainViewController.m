@@ -29,6 +29,8 @@
     NSLog(@"firstBranch--firstComment");
     NSLog(@"firstBranch--secondComment");
 
+    NSLog(@"secondBranch--firstComment");
+    
     self.view.backgroundColor = [UIColor greenColor];
     
     // Do any additional setup after loading the view.
