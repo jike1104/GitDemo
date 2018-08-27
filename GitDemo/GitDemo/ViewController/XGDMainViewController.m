@@ -24,6 +24,11 @@
     NSLog(@"firstBranch--sixthCommit");
     NSLog(@"firstBranch--developCommit");
 
+    /*  123456  */
+    
+    NSLog(@"firstBranch--firstComment");
+    NSLog(@"firstBranch--secondComment");
+
     self.view.backgroundColor = [UIColor greenColor];
     
     // Do any additional setup after loading the view.
