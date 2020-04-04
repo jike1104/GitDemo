@@ -34,6 +34,10 @@
     NSLog(@"thirdBranc--firstComment");
     self.view.backgroundColor = [UIColor greenColor];
     
+    NSLog(@"git add");
+    
+    NSLog(@"git diff");
+    
     // Do any additional setup after loading the view.
 }
 
