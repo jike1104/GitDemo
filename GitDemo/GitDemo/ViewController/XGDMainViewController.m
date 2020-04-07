@@ -54,6 +54,8 @@
     
     NSLog(@"git branch -- testing");
     
+    NSLog(@"git checkout -b hotfix");
+    
     // Do any additional setup after loading the view.
 }
 
