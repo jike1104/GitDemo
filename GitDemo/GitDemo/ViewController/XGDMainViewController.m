@@ -40,7 +40,7 @@
     
     NSLog(@"git amend");
 
-    NSLog(@"");
+    NSLog(@"git diff");
     
     // Do any additional setup after loading the view.
 }
