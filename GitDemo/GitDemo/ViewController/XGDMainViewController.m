@@ -42,6 +42,12 @@
 
     NSLog(@"git diff");
     
+    NSLog(@"git reset --hard b106287d3ec973935976a03af6ec306960b856bc");
+    
+    NSLog(@"git push origin HEAD --force");
+    
+    NSLog(@"git remote -v");
+    
     // Do any additional setup after loading the view.
 }
 
