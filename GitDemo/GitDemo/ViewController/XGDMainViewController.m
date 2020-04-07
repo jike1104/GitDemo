@@ -48,6 +48,9 @@
     
     NSLog(@"git remote -v");
     
+    
+    NSLog(@"git branch -- master");
+    
     // Do any additional setup after loading the view.
 }
 
