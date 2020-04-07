@@ -47,11 +47,13 @@
     NSLog(@"git push origin HEAD --force");
     
     NSLog(@"git remote -v");
-    
-    
+        
     NSLog(@"git branch -- master");
     
     NSLog(@"branch -- hotfix ");
+    
+    NSLog(@"git branch -- testing");
+    
     // Do any additional setup after loading the view.
 }
 
