@@ -51,6 +51,7 @@
     
     NSLog(@"git branch -- master");
     
+    NSLog(@"branch -- hotfix ");
     // Do any additional setup after loading the view.
 }
 
