@@ -66,6 +66,9 @@
     
     NSLog(@"commit -a -m :: ");
     
+    
+    NSLog(@"git add status");
+    
     // Do any additional setup after loading the view.
 }
 
