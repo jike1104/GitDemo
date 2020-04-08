@@ -77,6 +77,8 @@
 
     NSLog(@"git checkout -b branch");
     
+    NSLog(@"git merge branch");
+    
     // Do any additional setup after loading the view.
 }
 
