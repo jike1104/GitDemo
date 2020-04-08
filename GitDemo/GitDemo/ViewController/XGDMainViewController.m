@@ -71,6 +71,11 @@
     
     NSLog(@"git amend");
     
+<<<<<<< HEAD
+=======
+    NSLog(@"git amend again");
+    
+>>>>>>> git --amend
     // Do any additional setup after loading the view.
 }
 
