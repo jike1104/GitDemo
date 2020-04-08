@@ -69,13 +69,8 @@
     
     NSLog(@"git add status");
     
-    NSLog(@"git amend");
+    NSLog(@"git commit --amend again");
     
-<<<<<<< HEAD
-=======
-    NSLog(@"git amend again");
-    
->>>>>>> git --amend
     // Do any additional setup after loading the view.
 }
 
