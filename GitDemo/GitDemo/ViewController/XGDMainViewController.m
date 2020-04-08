@@ -71,6 +71,8 @@
     
     NSLog(@"git commit --amend again");
     
+    NSLog(@"git checkout -b branch");
+    
     // Do any additional setup after loading the view.
 }
 
