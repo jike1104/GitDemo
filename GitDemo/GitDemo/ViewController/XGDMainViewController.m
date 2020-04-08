@@ -71,6 +71,7 @@
     
     NSLog(@"git commit --amend again");
     
+    NSLog(@"git checkout -b hotfix");
     // Do any additional setup after loading the view.
 }
 
