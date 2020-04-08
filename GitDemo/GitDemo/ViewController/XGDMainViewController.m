@@ -69,6 +69,8 @@
     
     NSLog(@"git add status");
     
+    NSLog(@"git amend");
+    
     // Do any additional setup after loading the view.
 }
 
