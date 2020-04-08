@@ -81,6 +81,10 @@
     
     NSLog(@"git merge branch master");
     
+    NSLog(@"git merge again");
+    
+    NSLog(@"git merge again again");
+    
     // Do any additional setup after loading the view.
 }
 
