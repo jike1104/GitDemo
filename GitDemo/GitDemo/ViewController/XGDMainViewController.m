@@ -73,6 +73,8 @@
     
     NSLog(@"git checkout -b branch");
     
+    NSLog(@"git checkout -b hotfix");
+    
     // Do any additional setup after loading the view.
 }
 
