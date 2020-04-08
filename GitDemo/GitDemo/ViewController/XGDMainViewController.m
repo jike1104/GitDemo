@@ -56,6 +56,16 @@
     
     NSLog(@"git checkout -b hotfix");
     
+    NSLog(@"git status -s");
+    
+    NSLog(@"git diff --staged");
+    
+    NSLog(@"git diff --cached");
+    
+    NSLog(@"git restore --staged");
+    
+    NSLog(@"commit -a -m :: ");
+    
     // Do any additional setup after loading the view.
 }
 
