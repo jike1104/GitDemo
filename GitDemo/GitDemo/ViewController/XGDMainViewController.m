@@ -71,6 +71,8 @@
     
     NSLog(@"git commit --amend again");
     
+    NSLog(@"git remote add repo url");
+    
     // Do any additional setup after loading the view.
 }
 
