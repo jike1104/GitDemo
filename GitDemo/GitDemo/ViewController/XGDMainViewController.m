@@ -84,6 +84,8 @@
     NSLog(@"git merge again");
     
     NSLog(@"git merge again again");
+
+    NSLog(@"git remote add repo url");
     
     // Do any additional setup after loading the view.
 }
