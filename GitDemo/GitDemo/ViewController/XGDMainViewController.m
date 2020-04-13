@@ -66,7 +66,6 @@
     
     NSLog(@"commit -a -m :: ");
     
-    
     NSLog(@"git add status");
     
     NSLog(@"git commit --amend again");
