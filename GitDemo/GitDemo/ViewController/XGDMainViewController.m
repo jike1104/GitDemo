@@ -86,6 +86,8 @@
 
     NSLog(@"git remote add repo url");
     
+    NSLog(@"git branch develop");
+    
     // Do any additional setup after loading the view.
 }
 
