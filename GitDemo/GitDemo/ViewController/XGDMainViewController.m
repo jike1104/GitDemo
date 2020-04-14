@@ -92,6 +92,8 @@
     
     NSLog(@"git tag separation");
     
+    NSLog(@"git branch release");
+    
     // Do any additional setup after loading the view.
 }
 
