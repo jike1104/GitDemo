@@ -88,6 +88,8 @@
     
     NSLog(@"git branch develop");
     
+    NSLog(@"git branch release");
+    
     // Do any additional setup after loading the view.
 }
 
