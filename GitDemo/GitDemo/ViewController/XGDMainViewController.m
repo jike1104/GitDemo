@@ -88,6 +88,8 @@
     
     NSLog(@"git branch develop");
     
+    NSLog(@"git tag v1.0");
+    
     // Do any additional setup after loading the view.
 }
 
