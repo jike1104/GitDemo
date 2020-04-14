@@ -90,6 +90,8 @@
     
     NSLog(@"git tag v1.0");
     
+    NSLog(@"git tag separation");
+    
     // Do any additional setup after loading the view.
 }
 
