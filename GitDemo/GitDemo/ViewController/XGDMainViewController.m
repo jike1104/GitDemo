@@ -21,6 +21,8 @@
 
     NSLog(@"version_1.0.1");
     
+    NSLog(@"version_1.0.2");
+
     // Do any additional setup after loading the view.
 }
 
