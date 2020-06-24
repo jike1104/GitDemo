@@ -16,6 +16,9 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    
+    NSLog(@"version_1.0");
+
     // Do any additional setup after loading the view.
 }
 
