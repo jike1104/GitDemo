@@ -16,92 +16,11 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSLog(@"firstBranch");
-    NSLog(@"firstBranch--secondCommit");
-    NSLog(@"firstBranch--thirdCommit");
-    NSLog(@"firstBranch--forthCommit");
-    NSLog(@"firstBranch--fifthCommit");
-    NSLog(@"firstBranch--sixthCommit");
-    NSLog(@"firstBranch--developCommit");
-
-    /*  123456  */
-    
-    NSLog(@"firstBranch--firstComment");
-    NSLog(@"firstBranch--secondComment");
-
-    NSLog(@"secondBranch--firstComment");
-    
-    NSLog(@"thirdBranc--firstComment");
-    self.view.backgroundColor = [UIColor greenColor];
-    
-    NSLog(@"git add");
-    
-    NSLog(@"git diff");
-    
-    NSLog(@"git amend");
-
-    NSLog(@"git diff");
-    
-    NSLog(@"git reset --hard b106287d3ec973935976a03af6ec306960b856bc");
-    
-    NSLog(@"git push origin HEAD --force");
-    
-    NSLog(@"git remote -v");
-        
-    NSLog(@"git branch -- master");
-    
-    NSLog(@"branch -- hotfix ");
-    
-    NSLog(@"git branch -- testing");
-    
-    NSLog(@"git checkout -b hotfix");
-    
-    NSLog(@"git status -s");
-    
-    NSLog(@"git diff --staged");
-    
-    NSLog(@"git diff --cached");
-    
-    NSLog(@"git restore --staged");
-    
-    NSLog(@"commit -a -m :: ");
-    
-    NSLog(@"git add status");
-    
-    NSLog(@"git commit --amend again");
-    
-    NSLog(@"git checkout -b branch");
-    
-    NSLog(@"git checkout -b hotfix");
-
-    NSLog(@"git checkout -b branch");
-    
-    NSLog(@"git merge branch");
-    
-    NSLog(@"git merge branch master");
-    
-    NSLog(@"git merge again");
-    
-    NSLog(@"git merge again again");
-
-    NSLog(@"git remote add repo url");
-    
-    NSLog(@"git branch develop");
-    
-    NSLog(@"git tag v1.0");
-    
-    NSLog(@"git tag separation");
-    
-    NSLog(@"git branch release");
-    
     // Do any additional setup after loading the view.
 }
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
-    
-    NSLog(@"git tag 1.0");
-    
     // Dispose of any resources that can be recreated.
 }
 
