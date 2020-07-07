@@ -45,6 +45,10 @@
     
     NSLog(@"git stash list");
     
+    NSLog(@"git statsh - develop");
+    
+    NSLog(@"git statsh - develop - v1");
+
     // Do any additional setup after loading the view.
 }
 
