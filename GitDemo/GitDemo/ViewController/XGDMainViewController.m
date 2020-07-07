@@ -37,6 +37,10 @@
 
     NSLog(@"version_1.0.9");
 
+    NSLog(@"git stash");
+    
+    NSLog(@"git stash list");
+    
     // Do any additional setup after loading the view.
 }
 
