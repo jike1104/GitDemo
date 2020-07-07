@@ -43,6 +43,8 @@
     
     NSLog(@"git stash apply");
     
+    NSLog(@"git stash list");
+    
     // Do any additional setup after loading the view.
 }
 
