@@ -40,6 +40,10 @@
     NSLog(@"git stash develop");
     
     NSLog(@"git stash pop");
+
+    NSLog(@"git stash");
+    
+    NSLog(@"git stash list");
     
     // Do any additional setup after loading the view.
 }
