@@ -39,6 +39,10 @@
 
     NSLog(@"git stash");
 
+    NSLog(@"git status");
+    
+    NSLog(@"git stash apply");
+    
     // Do any additional setup after loading the view.
 }
 
