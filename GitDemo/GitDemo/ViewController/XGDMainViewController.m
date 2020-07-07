@@ -46,6 +46,8 @@
     NSLog(@"git stash list");
     
     NSLog(@"git stash learning");
+        
+    NSLog(@"git stash list");
     
     // Do any additional setup after loading the view.
 }
