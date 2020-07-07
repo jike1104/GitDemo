@@ -36,10 +36,6 @@
     NSLog(@"version_1.0.8");
 
     NSLog(@"version_1.0.9");
-
-    NSLog(@"git stash");
-    
-    NSLog(@"git stash list");
     
     NSLog(@"git statsh - develop");
     
