@@ -124,7 +124,7 @@
     
     NSLog(@"git merge hotfix"); // conflict exercise
     
-    NSLog(@"CONFLICT (content): Merge conflict in file");
+    NSLog(@"CONFLICT (content): Merge conflict in file"); // conflict exercise
     
     NSLog(@"Automatic merge failed; fix conflicts and then commit the result.");
     
