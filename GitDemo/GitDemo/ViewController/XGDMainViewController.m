@@ -124,6 +124,8 @@
     
     NSLog(@"git merge hotfix");
     
+    NSLog(@"Automatic merge failed; fix conflicts and then commit the result.");
+    
     // Do any additional setup after loading the view.
 }
 
