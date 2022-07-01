@@ -118,7 +118,11 @@
     
     NSLog(@"git log --pretty=format:\"%@ %@\" --graph", @"%h", @"%s");
     
+    NSLog(@"git log --oneline --decorate --graph --all");
     
+    NSLog(@"git checkout master");
+    
+    NSLog(@"git merge hotfix");
     
     // Do any additional setup after loading the view.
 }
