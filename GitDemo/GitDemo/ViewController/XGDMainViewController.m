@@ -122,7 +122,9 @@
     
     NSLog(@"git checkout master");
     
-    NSLog(@"git merge hotfix");
+    NSLog(@"git merge hotfix"); // conflict exercise
+    
+    NSLog(@"CONFLICT (content): Merge conflict in file");
     
     // Do any additional setup after loading the view.
 }
